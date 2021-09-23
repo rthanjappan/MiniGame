@@ -1,0 +1,21 @@
+MAP
+The map of the Mansion
+1
+
+KEYS
+a set of keys
+4
+
+LAMP
+a brightly shining brass lamp
+5
+
+LUNCH SACK
+A lunch containing burgers and french fries
+3
+
+SWORD
+a sharp shinning sword
+4
+
+

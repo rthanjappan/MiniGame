@@ -1,0 +1,66 @@
+1
+Foyer
+A shining mirror is reflecting your image beautifully.
+A map of the mansion is available to guide you through the mansion.
+Don't get lost....
+----
+0,2,0,0
+
+2
+Visitor's Room
+The room is decorated with imported persian carpets and curtains.
+Furnitures are revealing their craftsmanship.
+Be seated...
+----
+0,0,5,1
+
+3
+Kitchen
+The kitchen table looks like somebody prepared a hearty lunch.
+A lunch sack is ready to be eaten.
+Enjoy...
+----
+0,0,6,0
+
+4
+Cellar
+Piles of dusty antiques are abandoned here.
+Invaluable treasures.
+Be aware!!! some body is watching...
+----
+0,5,7,0
+
+5
+Central Hall
+Array of Shelves are full of memorabilas.
+A brightly shining brass lamp is waiting for you...
+----
+2,6,8,4
+
+6
+Dining Room
+Ready for a delicious lunch? 
+A lunch fit for a King is served on the dining table.
+Bon appetit!!!
+----
+3,0,0,5
+
+7
+Secret Hideaway
+The Mansion is haunted.Wanna hide?
+you are at the right place...
+----
+4,0,0,0
+
+8
+Entertainment Room
+You came a long way.Time for relaxing music.
+Or you want a movie?
+----
+5,9,0,0
+
+9
+Master Bedroom
+The luxurious bedroom with cozy bed and amenities is welcoming you. Relax...
+----
+0,0,0,8
