@@ -1,0 +1,18 @@
+MonsterID,MonsterName,MonsterDescription,DefeatedDescription,HP,isDefeated
+1
+Drowsy Guard
+A sleeping man, carrying the keys to the vault is guarding the entrance.
+----
+You find keys to the vault in the man’s pocket.
+****
+100
+false
+
+2
+Goblin
+A sneaky little troll looking for some loot to grab off adventurers. Watch your pouch-es!
+----
+Your pockets are now carefree knowing they will not be pick-pocketed today.
+****
+50
+false

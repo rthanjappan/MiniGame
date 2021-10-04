@@ -1,0 +1,14 @@
+PuzzleID,PuzzleName,PuzzleDescription,Solution,NumberOfAttempts,isSolved
+1
+Peach Puzzle
+What is the state fruit of Georgia?
+peach
+3
+false
+
+2
+Fun Puzzle
+I fly when I am born, I lay when I am alive, and I run when I die. Who am I?
+snowflake
+3
+false

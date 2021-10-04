@@ -1,0 +1,21 @@
+Category,ITemID,ItemName,ItemDescription,Damage/health Effect,isEquipped/Consumed
+equippable
+1
+KEYS
+A set of keys
+0
+false
+
+consumable
+2
+LUNCH SACK
+A lunch containing Grilled cheese sandwich
+25
+false
+
+equippable
+3
+SWORD
+A sharp shinning sword
+25
+false
